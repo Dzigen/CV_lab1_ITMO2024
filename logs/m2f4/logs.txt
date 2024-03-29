@@ -1,0 +1,3 @@
+{'epoch': 1, 'train_loss': 1.7394463130973634, 'eval_losss': 1.2229288661763782, 'scores': {'f1_macro': 0.5036592942254259, 'accuracy': 0.5397619047619048}, 'train_time': 529.08992, 'eval_time': 56.32345}
+{'epoch': 2, 'train_loss': 1.5621338029986336, 'eval_losss': 1.443206056697028, 'scores': {'f1_macro': 0.5221093844562176, 'accuracy': 0.5364285714285715}, 'train_time': 281.54327, 'eval_time': 70.13517}
+{'epoch': 3, 'train_loss': 1.5407839872723534, 'eval_losss': 1.2190591282220113, 'scores': {'f1_macro': 0.5141885917820336, 'accuracy': 0.5542857142857143}, 'train_time': 282.05763, 'eval_time': 70.29176}

@@ -1,0 +1,10 @@
+{'epoch': 1, 'train_loss': 1.857122898328872, 'eval_losss': 1.5146632438356227, 'scores': {'f1_macro': 0.3660646877576477, 'accuracy': 0.4104761904761905}, 'train_time': 116.81027, 'eval_time': 27.5705}
+{'epoch': 2, 'train_loss': 1.5139943758646648, 'eval_losss': 1.3419758957443815, 'scores': {'f1_macro': 0.46336593673865833, 'accuracy': 0.5147619047619048}, 'train_time': 117.89054, 'eval_time': 27.43056}
+{'epoch': 3, 'train_loss': 1.5457748391514732, 'eval_losss': 1.231042847940416, 'scores': {'f1_macro': 0.5217024648305199, 'accuracy': 0.5585714285714286}, 'train_time': 117.75394, 'eval_time': 27.72878}
+{'epoch': 4, 'train_loss': 1.3052441274552118, 'eval_losss': 1.183832455313567, 'scores': {'f1_macro': 0.5667144868845672, 'accuracy': 0.5871428571428572}, 'train_time': 117.20344, 'eval_time': 27.63841}
+{'epoch': 5, 'train_loss': 1.266090049175989, 'eval_losss': 1.3178824226964603, 'scores': {'f1_macro': 0.5085926331932236, 'accuracy': 0.5457142857142857}, 'train_time': 117.14239, 'eval_time': 27.41026}
+{'epoch': 6, 'train_loss': 1.206076466696603, 'eval_losss': 1.1394142102111469, 'scores': {'f1_macro': 0.584705741217757, 'accuracy': 0.5969047619047619}, 'train_time': 116.63013, 'eval_time': 27.81089}
+{'epoch': 7, 'train_loss': 1.189541357585362, 'eval_losss': 1.1134407551902714, 'scores': {'f1_macro': 0.6121278704762051, 'accuracy': 0.6242857142857143}, 'train_time': 117.43258, 'eval_time': 27.76074}
+{'epoch': 8, 'train_loss': 1.1182669017428444, 'eval_losss': 1.143418555909937, 'scores': {'f1_macro': 0.5983266932879767, 'accuracy': 0.6059523809523809}, 'train_time': 117.67167, 'eval_time': 27.75513}
+{'epoch': 9, 'train_loss': 1.305728488536108, 'eval_losss': 1.1157052372441147, 'scores': {'f1_macro': 0.6112134689481541, 'accuracy': 0.6142857142857143}, 'train_time': 118.37888, 'eval_time': 27.78723}
+{'epoch': 10, 'train_loss': 1.1095047538621086, 'eval_losss': 1.1257614813970798, 'scores': {'f1_macro': 0.6227887823382291, 'accuracy': 0.6288095238095238}, 'train_time': 117.10277, 'eval_time': 27.49988}

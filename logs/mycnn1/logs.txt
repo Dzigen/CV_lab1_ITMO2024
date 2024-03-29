@@ -1,0 +1,2 @@
+{'epoch': 1, 'train_loss': 1.7627995795863016, 'eval_losss': 5.96916474206107, 'scores': {'f1_macro': 0.015408500392717047}, 'train_time': 76.4755, 'eval_time': 9.61769}
+{'epoch': 2, 'train_loss': 1.4319779371363777, 'eval_losss': 6.493760422297886, 'scores': {'f1_macro': 0.019579386775416503}, 'train_time': 84.59206, 'eval_time': 9.51511}

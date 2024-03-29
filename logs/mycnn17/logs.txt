@@ -1,0 +1,6 @@
+{'epoch': 1, 'train_loss': 1.4540698800910088, 'eval_losss': 1.2341576533090501, 'scores': {'f1_macro': 0.5624952072457152, 'accuracy': 0.5725}, 'train_time': 61.361, 'eval_time': 27.12621}
+{'epoch': 2, 'train_loss': 1.2032214719908578, 'eval_losss': 1.8766914780366988, 'scores': {'f1_macro': 0.4673471103411024, 'accuracy': 0.5027380952380952}, 'train_time': 37.79029, 'eval_time': 8.87296}
+{'epoch': 3, 'train_loss': 1.130764190852642, 'eval_losss': 1.0924963881288257, 'scores': {'f1_macro': 0.6009894687699076, 'accuracy': 0.6120238095238095}, 'train_time': 37.2054, 'eval_time': 8.94879}
+{'epoch': 4, 'train_loss': 1.087419733859244, 'eval_losss': 1.381612482638586, 'scores': {'f1_macro': 0.505225785753406, 'accuracy': 0.5320238095238096}, 'train_time': 37.62936, 'eval_time': 8.86635}
+{'epoch': 5, 'train_loss': 1.0461335744744256, 'eval_losss': 1.7000619978564127, 'scores': {'f1_macro': 0.5855589866817343, 'accuracy': 0.5857142857142857}, 'train_time': 37.69505, 'eval_time': 8.82757}
+{'epoch': 6, 'train_loss': 1.0407071266429766, 'eval_losss': 5.592108663774672, 'scores': {'f1_macro': 0.4561017124071706, 'accuracy': 0.43273809523809526}, 'train_time': 37.70623, 'eval_time': 8.83308}

@@ -1,0 +1,11 @@
+{
+  "lr": 0.01,
+  "epochs": 10,
+  "batch_size": 16,
+  "device": "cuda",
+  "model_name": "mycnn",
+  "classes": 14,
+  "base_dir": "./logs",
+  "run_name": "mycnn10",
+  "to_save": true
+}

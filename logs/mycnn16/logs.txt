@@ -1,0 +1,10 @@
+{'epoch': 1, 'train_loss': 1.6085295083976927, 'eval_losss': 1.6074319971378312, 'scores': {'f1_macro': 0.43134500969843714, 'accuracy': 0.43976190476190474}, 'train_time': 36.5108, 'eval_time': 4.95372}
+{'epoch': 2, 'train_loss': 1.4598629456474668, 'eval_losss': 4.574788018324529, 'scores': {'f1_macro': 0.47698689987262605, 'accuracy': 0.49404761904761907}, 'train_time': 36.29716, 'eval_time': 5.14559}
+{'epoch': 3, 'train_loss': 1.4031366029239836, 'eval_losss': 2.332296645006753, 'scores': {'f1_macro': 0.5210083930011871, 'accuracy': 0.5333333333333333}, 'train_time': 39.00968, 'eval_time': 7.92957}
+{'epoch': 4, 'train_loss': 1.3362813112281617, 'eval_losss': 1.3992569534950836, 'scores': {'f1_macro': 0.5282420145094536, 'accuracy': 0.5488095238095239}, 'train_time': 45.60406, 'eval_time': 26.28866}
+{'epoch': 5, 'train_loss': 1.3127272028582437, 'eval_losss': 2.3608645819439182, 'scores': {'f1_macro': 0.541134472523652, 'accuracy': 0.5330952380952381}, 'train_time': 89.66549, 'eval_time': 5.81973}
+{'epoch': 6, 'train_loss': 1.3068717816330138, 'eval_losss': 1.2773315443058884, 'scores': {'f1_macro': 0.5434952162151487, 'accuracy': 0.5597619047619048}, 'train_time': 36.02157, 'eval_time': 4.96462}
+{'epoch': 7, 'train_loss': 1.223017487327258, 'eval_losss': 1.2134648221527216, 'scores': {'f1_macro': 0.5687835686466355, 'accuracy': 0.5804761904761905}, 'train_time': 36.00261, 'eval_time': 5.04016}
+{'epoch': 8, 'train_loss': 1.228888232310613, 'eval_losss': 1.23604765568396, 'scores': {'f1_macro': 0.5659632602534025, 'accuracy': 0.5652380952380952}, 'train_time': 36.04614, 'eval_time': 5.02666}
+{'epoch': 9, 'train_loss': 1.2082236685071672, 'eval_losss': 1.434698305655795, 'scores': {'f1_macro': 0.5788657936437206, 'accuracy': 0.5873809523809523}, 'train_time': 35.95885, 'eval_time': 4.963}
+{'epoch': 10, 'train_loss': 1.1891518619514647, 'eval_losss': 1.2247500383355319, 'scores': {'f1_macro': 0.558621428683084, 'accuracy': 0.5719047619047619}, 'train_time': 36.19532, 'eval_time': 4.92309}

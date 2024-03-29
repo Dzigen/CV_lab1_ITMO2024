@@ -1,0 +1,11 @@
+{
+  "lr": 1e-05,
+  "epochs": 20,
+  "batch_size": 8,
+  "device": "cuda",
+  "model_name": "resnet",
+  "classes": 14,
+  "base_dir": "./logs",
+  "run_name": "resnet10",
+  "to_save": true
+}
